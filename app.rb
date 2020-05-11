@@ -3,7 +3,7 @@ require_relative 'config/environment'
 class App < Sinatra::Base
 
   get '/' do
-      "ssdfd"
+      "ss34dfd"
   end
 
 end
